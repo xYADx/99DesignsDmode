@@ -106,20 +106,20 @@
 	::-webkit-scrollbar-track {
 		border-radius: 8px;
 		background: var(--b5)!important
-}
+	}
 	::-webkit-scrollbar {
 		width: 10px!important;
 		background: var(--b5)!important
-}
+	}
 	//Handle
 	::-webkit-scrollbar-thumb {
 		background-color: var(--t4)!important;
 		border-radius: 10px
-}
+	}
 	//Handlehover
 	::-webkit-scrollbar-thumb:hover {
 		background-image: linear-gradient( var(--b6)  0%, var(--b1)  100%)!important
-}
+	}
 
 	//menu
 	.dbjqOF,
@@ -510,7 +510,7 @@
 	.field__message,
 	.small-action .small-action-desc.timegap {
 		color: var(--t2);
-}
+	}
 
 	.topic-map h3,
 	.breadcrumbs .breadcrumbs__item__link,
